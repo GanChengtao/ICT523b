@@ -8,6 +8,9 @@
 <h2>Personal photos</h2>
 <img src="https://i.postimg.cc/bYLYy2py/20230306204906.jpg" alt="Kyrie" width="1280" height="1740">
 
+<h3>Personal photos</h3>
+<img src="https://i.postimg.cc/TP2Dt5jp/20230306213438.jpg" alt="Kyrie" width="1280" height="1843">
+
 </body>  
 </html> 
 </body> 
