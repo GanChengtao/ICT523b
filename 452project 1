@@ -16,7 +16,7 @@ div
 {
 	font-family:myFirstFont;
 }
-p.es{color:rgb(0,0,255)}  
+p.es{color:rgb(5，5，150)}  
         </style>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -31,7 +31,7 @@ p.es{color:rgb(0,0,255)}
       <div style="text-align:center;">
         
         
-    <img border="0" src="images/pulpit.jpg" alt="Pulpit rock"text-align: center width="304" height="420" >
+    <img border="0" src="https://i.postimg.cc/nz28ShkB/1-FD7-B7-C6-9-E37-4193-9-B3-C-4327-F21-A476-E.jpg"  >
       </div>
     <nav>
               <ul>
@@ -44,7 +44,7 @@ p.es{color:rgb(0,0,255)}
       <div class="row">
         <div class="column">
           <h2>Interest</h2>
-          <p class="es" style="centre">I am outgoing, stable and good at thinking, with strong self-learning ability and solid professional knowledge. I actively participate in various cultural and sports activities on campus and participate in social practice. I like doing web pages, play badminton, table tennis, and keeping fit. I have a wide range of interests, like sports, painting, and actively participate in various competitions to win various awards.</p>
+          <p class="es" style="centre">Hello! My name is Kyrie. I am a 20 year-old boy. I am studying in NBCC School.I like traveling best. My favourite colour is white. I like eating barbecue very much.</p>
         </div>
         
         <div class="column">
